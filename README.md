@@ -1,2 +1,2 @@
 # selenium-test
-my awesome project
+my awesome project for testing
